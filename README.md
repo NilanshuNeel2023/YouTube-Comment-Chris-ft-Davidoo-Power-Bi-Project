@@ -80,9 +80,9 @@ This Power BI project provides a complete analytical solution for social Media t
 
 The project highlights strong expertise in:
 
-Power BI Dashboarding
-Business Intelligence
-DAX Calculations
-Data Analysis
-Data Visualization
-Problem Solving
+- Power BI Dashboarding
+- Business Intelligence
+- DAX Calculations
+- Data Analysis
+- Data Visualization
+- Problem Solving
