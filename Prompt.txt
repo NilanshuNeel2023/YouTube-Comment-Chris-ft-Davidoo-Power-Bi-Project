@@ -1,0 +1,10 @@
+
+
+ Data Cleaning:
+
+1. Unwanted Characters:
+   - Remove all unwanted characters from the "comment" and "reply" columns, except for hearts (❤️). This includes removing symbols and other unnecessary emojis.
+   - Retain the original structure of rows and columns.
+
+2. Date and Time Columns:
+   - Ensure that the date and time columns are formatted with the correct data type as date and time correctly. do not allow unwanted characters within date and time

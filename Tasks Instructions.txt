@@ -1,0 +1,21 @@
+
+1. Total Comments
+
+2. Total Likes on Comments
+
+3. Percentage of Likes on Comments
+
+4. Total Replies to Comments
+
+5. Popularity of Artists Mentioned in Comments:
+
+6. Music Styles Referenced in Comments:
+   
+7. Viewers with Multiple Comments:
+   
+8. Comment Activity by Time of Day:
+   
+9. Daily Comment Trends by Weekday:
+   
+10. Daily Comment Trends by Day:
+  
