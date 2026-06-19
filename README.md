@@ -75,3 +75,14 @@ The dashboard answers the following key questions:
 - User Behavior Analytics
 - Social Media Data Analysis
 
+## Conclusion
+This Power BI project provides a complete analytical solution for social Media to understand the trend  of the music and their comment. The dashboard transforms raw dataset into meaningful insights that support strategic decision-making and trend of the music.
+
+The project highlights strong expertise in:
+
+Power BI Dashboarding
+Business Intelligence
+DAX Calculations
+Data Analysis
+Data Visualization
+Problem Solving
